@@ -75,7 +75,7 @@ public class HomePage extends base{
 		//0th row
 		data[0][0]="nonrestricteduser@qw.com";
 		data[0][1]="123456";
-		data[0][2]="Restrcited User";
+		data[0][2]="restricted User";
 		//1st row
 		data[1][0]="restricteduser@qw.com";
 		data[1][1]="456788";

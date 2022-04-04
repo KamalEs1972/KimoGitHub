@@ -11,7 +11,7 @@ public class LoginPage {
 	
 	By email=By.cssSelector("[id='user_email']");
 	By password=By.cssSelector("[type='password']");
-	By login=By.cssSelector("[value='Log In']");
+	By login=By.xpath("//span[.='Login']");
 	By forgotPassword = By.cssSelector("[href*='password/new']");
 	
 	
